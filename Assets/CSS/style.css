@@ -5,7 +5,7 @@ body {
 }
 
 textarea {
-  background: transparent;
+  background: lightgreen;
   border: none;
   resize: none;
   color: #000000;
@@ -15,11 +15,12 @@ textarea {
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
+  background-color: lightyellow;
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
 }
+
 
 .description {
   white-space: pre-wrap;
