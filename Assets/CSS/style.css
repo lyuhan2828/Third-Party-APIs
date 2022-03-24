@@ -5,7 +5,6 @@ body {
 }
 
 textarea {
-  background: lightgreen;
   border: none;
   resize: none;
   color: #000000;
@@ -20,7 +19,6 @@ textarea {
   border-radius: 0;
   border-bottom: 10px solid black;
 }
-
 
 .description {
   white-space: pre-wrap;
