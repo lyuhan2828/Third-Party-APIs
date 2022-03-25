@@ -1,4 +1,4 @@
-
+$(document).ready(()=>{
 
     $(".saveBtn").on("click", function() {
         var value = $(this).siblings(".description").val()
@@ -39,3 +39,4 @@
 
     $('#currentDay').text(moment().format('MMMM Do YYYY, h:mm:a'))
 
+})
